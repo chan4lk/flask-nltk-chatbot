@@ -101,7 +101,7 @@ model.save('models/chatbot-model.tflearn')
 
 print('[INFO] Model successfully trained')
 
-
+'''
 def bag_of_words(s, words):
 
 	bag = [0 for _ in range(len(words))]
@@ -140,3 +140,4 @@ def chat():
 		print (outputText)
 
 chat()              
+'''
