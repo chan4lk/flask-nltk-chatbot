@@ -10,12 +10,12 @@ py -m pip install -r requirements.txt
 
 # Train
 ```shell
-python trainModel.py
+py trainModel.py
 ```
 
 # Run Flask API
 ```shell
-python -m flask --app app run
+py -m flask --app app run
 ```
 
 # Call api
