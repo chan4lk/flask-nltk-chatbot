@@ -20,5 +20,5 @@ python -m flask --app app run
 
 # Call api
 ```http
-http://127.0.0.1:5000/?text=Hi
+http://127.0.0.1:5000/message?text=Hi
 ```

@@ -1,0 +1,9 @@
+# Get Html
+
+GET http://127.0.0.1:5000/?text=Hi
+
+###
+
+# Get JSON
+
+GET http://127.0.0.1:5000/message?text=Hi
